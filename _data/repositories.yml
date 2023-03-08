@@ -1,12 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - JP-25
 
 github_repos:
   - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - JP-25/MOE_recsys
+  - JP-25/Augmented-Reality-Training-Development-for-a-3D-Printer
+  - JP-25/OCR_MachineLearning
+  - JP-25/Operating-System-Course
+  # - twbs/bootstrap
+  # - jekyll/jekyll
+  # - jquery/jquery
+  # - FortAwesome/Font-Awesome
+  # - jpswalsh/academicons
+  # - mathjax/MathJax
