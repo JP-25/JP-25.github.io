@@ -4,7 +4,7 @@ title: Mixture-of-Experts for Recommender System
 description: Resolved mainstream bias in recommender system
 img: assets/img/12.jpg
 importance: 1
-category: research
+category: work
 ---
 
 - Wrote a customized Mixture-Of-Experts(MOE) based on the LOCA to construct one global model;
