@@ -256,7 +256,7 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Pan
+  last_name: [Pan]
   first_name: [Jinhao]
 
   style: apa
