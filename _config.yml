@@ -322,7 +322,7 @@ imagemagick:
     - ".tiff"
   output_formats:
     webp: "-resize 800x"
-    
+
 # responsive_image:
 #   template: _includes/responsive_img.html
 #   # Quality to use when resizing images.
